@@ -184,13 +184,14 @@ animation: showContent 0.5s 0.7s ease-in-out 1 forwards;
     .thumbnail{
         justify-content: start;
     }
-    .slider .list .item .content h2{
-        font-size: 60px;
-    }
+    
        .arrows{
         top: 10%;
        } 
     
+}
+.slider .list .item .content h2{
+    font-size: 60px;
 }
 
 
